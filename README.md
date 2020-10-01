@@ -1,2 +1,2 @@
-# Meus-projetos-C-Cpp
- My Projects in C and Cpp
+# Projetos em C e C++
+ Aceito qualquer informação para simplificar os códigos que estão nas pastas logo a cima 
